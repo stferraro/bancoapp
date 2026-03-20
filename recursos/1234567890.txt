@@ -1,0 +1,1 @@
+Operaciones de la cuenta 1234567890: ['Código: OP001, Fecha: 15-03-2026Tipo: Depósito, Monto: 2899.0']
